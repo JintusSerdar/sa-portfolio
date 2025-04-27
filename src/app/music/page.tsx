@@ -1,9 +1,7 @@
-import React from 'react';
-
 export default function Music() {
   return (
     <main>
-      <h1>Music</h1>
+      <h1>Music hi</h1>
     </main>
   );
 } 
